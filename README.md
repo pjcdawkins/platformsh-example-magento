@@ -1,6 +1,6 @@
-# Magento 2.0 Enterprise Edition
+# Magento 2.0 Community Edition
 
-This is a no-thrills example of a minimal repository to deploy a Magento 2 Enterprise Edition instance on Platform.sh.
+This is a no-thrills example of a minimal repository to deploy a Magento 2 Community Edition instance on Platform.sh.
 
 This example is based on using the Composer to build the site. You can see there is not much in terms of files committed to this repository.
 
