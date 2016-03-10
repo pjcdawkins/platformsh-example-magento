@@ -27,5 +27,5 @@ will be serving HTTP will be the one we called `php`.
 In `.platform/services.yaml` we say we want a MySQL instance, a Redis and a Solr. That would cover most basic Magento
 needs, right?
 
-The ``composer.json`` will fetch the Magento 2.0 Enterprise Edition, and some configuration scripts to prepare your application
+The ``composer.json`` will fetch the Magento 2.0 Community Edition, and some configuration scripts to prepare your application
 for Platform.sh.
